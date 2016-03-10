@@ -2,7 +2,7 @@
 package greetings
 
 //GreetingsString is a global variable
-var GreetingsString = "Hello World"
+var GreetingsString = "Hello Section"
 
 //PrintGreetings is a global function
 func PrintGreetings(name string) string {
